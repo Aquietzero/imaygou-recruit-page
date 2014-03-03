@@ -71,3 +71,18 @@ ul {
   vertical-align: middle;
   margin: 0 5px;
 }
+
+.section-qrcode {
+  text-align: center;
+}
+
+.section a {
+  color: #b50759;
+}
+
+.qrcode {
+  width: 128px;
+  height: 128px;
+  margin-bottom: 50px;
+}
+
