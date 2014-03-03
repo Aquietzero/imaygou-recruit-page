@@ -9,17 +9,21 @@ ul {
 }
 
 .screenshot {
-  display: none;
+  height: 0;
+}
+
+.screenshot img {
+  height: 0;
 }
 
 .header {
   background-color: #eee;
   text-align: center;
-  padding: 10px 20px;
+  padding: 20px 0;
 }
 
 .header-wrapper {
-  width: 320px;
+  width: 300px;
   margin: auto;
 }
 
@@ -33,7 +37,7 @@ ul {
 }
 
 .slogan-main {
-  font-size: 1.2em;
+  font-size: 1.8em;
   font-weight: bold;
   color: #b50759;
 }
@@ -50,6 +54,7 @@ ul {
 
 .section {
   margin: 30px auto;
+  padding: 0 10px;
 }
 
 .section .title {
