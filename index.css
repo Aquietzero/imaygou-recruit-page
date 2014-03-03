@@ -1,0 +1,73 @@
+body {
+  background: white;
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+.header {
+  background-color: #eee;
+  text-align: center;
+  padding: 10px 20px;
+}
+
+.imaygou {
+  text-align: center;
+}
+
+.imaygou img {
+  width: 250px;
+  margin-bottom: 20px;
+}
+
+.slogan-main {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #b50759;
+}
+
+.slogan-sub {
+  color: #b50759;
+  font-size: 0.9em;
+}
+
+.container {
+  width: 320px;
+  margin: 0 auto;
+}
+
+.section {
+  margin: 30px auto;
+}
+
+.section .title {
+  color: #b50759;
+  font-weight: bold;
+  text-align: center;
+  margin: 0 auto;
+}
+
+.section .section-logo {
+  text-align: center;
+}
+
+.section .logo {
+  width: 64px;
+  height: 64px;
+  margin-bottom: -10px;
+}
+
+.section .about-us {
+  width: 82px;
+  height: 34;
+}
+
+.recruit {
+  width: 30px;
+  height: 30px;
+  vertical-align: middle;
+  margin: 0 5px;
+}
